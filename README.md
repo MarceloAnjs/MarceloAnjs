@@ -16,9 +16,11 @@
   
   ##
   
- <div>
-    
-     ![Snake animation](https://github.com/marceloanjs/marceloanjs /blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+ <div> 
+
+ 
+  ![Snake animation](https://github.com/marceloanjs/marceloanjs/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
   
